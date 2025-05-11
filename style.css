@@ -1,0 +1,460 @@
+body{
+
+    background-color: white;
+}
+
+h1{
+
+    text-align: center;
+
+    color: rgb(226, 240, 240);
+
+    
+
+
+
+    font-size: 70px;
+
+    
+}
+
+
+header{
+
+    box-shadow: 4px 4px 5px 6px rgb(236,  236, 141);
+
+    border: 2px solid rgb(236, 236, 141);
+
+    background-color: rgb(168, 168, 92);
+
+    border-radius: 10px;
+
+    opacity: 0.94;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+}
+
+.Paint p{
+
+    
+
+    display: inline-block;
+
+    
+
+
+   
+}
+
+.Paint img{
+
+    
+
+    position: relative;
+
+    top: 38px;
+
+    right: -11px;
+
+    width: 430px;
+
+    height: 410px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.Descrip{
+
+    box-shadow: 4px 4px 5px 6px rgb(236,  236, 141);
+
+    border: 2px solid rgb(236, 236, 141);
+
+    border-radius: 10px;
+
+    background-color: rgb(168, 168, 92);
+
+    
+
+    font-size: 35px;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.Paint img:hover{
+
+    padding: 10px;
+
+    transition: 0.3s;
+
+    opacity: 0.67;
+
+    box-shadow: 5px 3px 5px 5px rgb(0, 0, 0);
+
+
+}
+
+.Descrip p{
+
+    
+    
+    color: white;
+
+    text-align: center;
+
+    font-size: 75px;
+
+
+}
+
+.Descrip a{
+
+    position: relative;
+
+    right: -15px;
+
+    top: -35px;
+
+    text-decoration: none;
+
+    color: rgb(63, 61, 61);
+
+    font-size: 35px;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    background-color: white;
+
+    box-shadow: 4px 4px 5px 6px rgb(236,  236, 141);
+
+    border: 2px solid rgb(236, 236, 141);
+
+    width: 150px;
+
+    height: 95px;
+}
+
+.Descrip ul{
+
+    border-radius: 10px;
+
+    box-shadow: 4px 0px 5px 6px rgb(236,  236, 141);
+
+    border: 2px solid rgb(236, 236, 141);
+
+    color: white;
+
+    font-size: 97px;
+
+    position: relative;
+
+    right: -38px;
+}
+
+header h1:hover{
+
+    transition: 0.3s;
+
+    transform: scale(1.5);
+}
+
+.buttons button:hover{
+
+    font-size: 30px;
+
+    transition: 0.2s;
+
+    transform: scale(1.2);
+
+    display: inline-block;
+
+    background-image: linear-gradient(white, gray);
+
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+   font-size: larger;
+
+
+
+
+}
+
+.Goto:hover{
+
+    
+
+    opacity: 0.85;
+
+    
+
+    transition: 0.25s;
+
+    box-shadow: -7px 0px 10px 3px rgb(236,  236, 141);
+
+
+
+}
+
+label{
+
+    font-size: 40px;
+
+
+}
+
+.Creating{
+
+    background-color: rgb(255, 253, 253);
+
+    border-radius: 5px;
+
+
+}
+
+
+
+.Creating img{
+
+    border-radius: 10px;
+
+    width: 45%;
+
+    height: 275px;
+
+}
+
+.Settings label{
+
+    font-size: 35px;
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+.Clear{
+
+    width: 125px;
+
+    height: 95px;
+
+    color: rgb(65, 64, 64);
+
+    font-size: larger;
+}
+
+.tutorial{
+
+    position: relative;
+
+    top: 55px;
+    
+    box-shadow: 4px 4px 5px 6px rgb(236,  236, 141);
+
+    border: 2px solid rgb(236, 236, 141);
+
+    background-color: rgb(168, 168, 92);
+
+    border-radius: 10px;
+
+
+}
+
+.tutorial p{
+
+    position: relative;
+
+    
+
+    color: rgb(226, 240, 240);
+
+    
+
+
+
+    font-size: 35px;
+
+
+}
+
+.tutorial h1{
+
+    text-align: center;
+
+    color: rgb(226, 240, 240);
+
+    
+
+
+
+    font-size: 70px;
+
+
+}
+
+.ChangeSize{
+
+    
+
+    width: 125px;
+
+    height: 95px;
+
+    color: rgb(65, 64, 64);
+
+    font-size: larger;
+}
+
+.ChangeSize2{
+
+   
+
+    width: 125px;
+
+    height: 95px;
+
+    color: rgb(65, 64, 64);
+
+    font-size: larger;
+}
+
+.ChangeSize1{
+
+   
+
+    width: 125px;
+
+    height: 95px;
+
+    color: rgb(65, 64, 64);
+
+    font-size: larger;
+}
+
+.ChangeSize3{
+
+    width: 125px;
+
+    height: 95px;
+
+    color: rgb(65, 64, 64);
+
+    font-size: larger;
+
+    position: relative;
+
+    
+}
+
+.buttons label{
+
+    font-size: 35px;
+
+    position: relative;
+
+
+
+    top: 2px;
+
+    right: -5px;
+}
+
+
+
+
+.ChangeSize4{
+
+    width: 125px;
+
+    height: 95px;
+
+    color: rgb(65, 64, 64);
+
+    font-size: larger;
+
+    position: relative;
+
+    
+}
+
+
+.rubberButton{
+
+    width: 125px;
+
+    height: 95px;
+
+    color: rgb(65, 64, 64);
+
+    font-size: larger;
+
+    position: relative;
+
+    
+}
+
+.buttons button{
+
+    font-size: 35px;
+
+    width: 215px;
+
+    height: 175px;
+}
+
+
+
+.Music{
+
+    position: relative;
+
+    top: 326px;
+
+    
+
+
+
+   
+}
+
+.Music h1{
+
+    box-shadow: 4px 4px 5px 6px rgb(236,  236, 141);
+
+    border: 2px solid rgb(236, 236, 141);
+
+    background-color: rgb(168, 168, 92);
+
+    font-size: 70px;
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    border-radius: 10px;
+
+
+
+    color: rgb(226, 240, 240);
+
+
+}
+
+.Music h1:hover{
+
+    transition: 0.3s;
+
+    transform: scale(1.2);
+
+
+}
